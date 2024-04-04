@@ -33,6 +33,7 @@
   grid-template-columns: repeat(1, 1fr);
   height: 250px;
   margin-bottom: 6%;
+  margin-left: 10%;
 }
 .language_logo > div {
   border: 0px solid greenyellow;
@@ -75,7 +76,6 @@
 .backend_logo > div > img {
   text-align: center;
   width: 100%;
-  margin: auto;
 }
 
 .tools_logo {

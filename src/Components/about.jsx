@@ -93,13 +93,13 @@ export default function About() {
           <a
             onClick={() => {
               window.open(
-                "https://drive.google.com/file/d/1OTEecXaL9ccV2qb69a8MkUXAQ09cLav8/view?usp=sharing",
+                "https://drive.google.com/file/d/1OTEecXaL9ccV2qb69a8MkUXAQ09cLav8/view?usp=sharing~",
                 "blank"
                 );
               }}
               id="resume-button-2"
               href={Resume}
-              download="abhishek-kumar-resume"
+              download="Abhishek-kumar-resume"
               className={style.ResumeBtn}
               >
             <span></span>

@@ -31,8 +31,8 @@ export const projectsData = [
         name: "github",
       },
     ],
-    link: "https://hesitant-river-6235-nine.vercel.app/",
-    github: "https://github.com/shivammchaudhary1/hesitant-river-6235",
+    link: "https://foodiesweb12.netlify.app/",
+    github: "https://github.com/abhishek10kumar/food-web",
   },
   {
     project_img:
